@@ -1,5 +1,9 @@
 # SGDCserver
 
+You can find the front-end app at: https://github.com/slade9220/SGDC2018 <br>
+You can find the management app at: https://github.com/slade9220/ManageSGDC <br>
+
+
 Server configuration<br> 
 -/database <br>
 	-controller.php<br> 
